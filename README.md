@@ -65,7 +65,7 @@ I break down complex data topics into simple, practical content that actually he
  ### 🚀 Stay Connected & Join my Data Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
 
-💼 LinkedIn: [Sreekumar K](https://www.linkedin.com/in/sreekumar007/)
+💼 LinkedIn: [Sreekumar K](https://www.linkedin.com/in/sreekumar007/
 )
 - Let’s connect professionally and grow your data career
 
