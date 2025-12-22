@@ -1,5 +1,5 @@
 # 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+This project analyzes customer behavior to help businesses understand pain points and demands to adapt offerings, develop new features, and ensure products align with what customers truly want.The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
@@ -54,11 +54,10 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Build presentation deck using Gamma AI
  
 ## 👨‍💻 About the Author
-Hey, I’m Sreekumar K, a Data Analyst & Content Creator.
-I break down complex data topics into simple, practical content that actually helps you land a job.
-
+Hey, I’m Sreekumar K, A Data Analyst 
+I break down complex data topics into simple
  ### 🚀 Stay Connected & Join my Data Community
-If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
+If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects and more.
 
 💼 LinkedIn: [Sreekumar K](https://www.linkedin.com/in/sreekumar007/
 )
