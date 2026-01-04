@@ -1,5 +1,5 @@
-# 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project analyzes customer behavior to help businesses understand pain points and demands to adapt offerings, develop new features, and ensure products align with what customers truly want.The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+# 👨🏻‍💻Customer Behaviour Data Analyst Portfolio Project
+This project analyzes customer behaviour to help businesses understand pain points and demands to adapt offerings, develop new features, and ensure products align with what customers truly want.The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 ## 📌 Project Overview
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
@@ -19,7 +19,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 1. **Clone the repository**
    ```bash
    git clone https://github.com/fortrock/Customer-trends-data-analysis-SQL-Python-PowerBI   ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+2. **Open Customer_Shopping_Behaviour_Analysis.ipynb notebook**
 
     This file contains:
 
@@ -37,13 +37,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **customer_behaviour_sql_queries.sql**
   
       - Answer Business Questions using SQL Queries 
       
 4. **Connect the SQL Database to Power BI**
 
-      - Open **customer_behavior_dashboard.pbix**
+      - Open **customer_behaviour_dashboard.pbix**
    
       - Create interactive dashboard in Power BI
   
